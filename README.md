@@ -1,1 +1,3 @@
 # Mi primer repo
+
+OSCAR RAUL RIVAS VALLADARES 
